@@ -21,4 +21,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: selimzakhama/CalculatorAPP:latest
+          tags: selimzakhama/calculatorapp:latest
